@@ -1,2 +1,2 @@
 # hello-world
-Demo project for the CircleCI tool
+Testing out CircleCI
